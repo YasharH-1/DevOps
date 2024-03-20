@@ -1,0 +1,1 @@
+If you cant see pdf image make sure to install vscode-pdf extention on your VScode!
